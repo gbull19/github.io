@@ -16,4 +16,4 @@ I build and maintain security monitoring environments and investigate suspicious
 - OS: Linux (Ubuntu & Debian), Windows
 - Scripting: Bash, Python (basic)
 
-👉 See **Projects** and **Writeups** for hands-on examples.
+👉 See **[Projects]({% link projects.md})** and **[Writeups]**({% link writeups.md}) for hands-on examples.
