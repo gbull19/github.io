@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Garrett Bull
-**Cybersecurity Analyst | SOC | SIEM | Vulnerability Management**
+**Cybersecurity Manager | SOC | SIEM | Vulnerability Management**
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
 
@@ -13,7 +13,7 @@ I build and maintain security monitoring environments and investigate suspicious
 - Monitoring: Nagios, NRPE
 - Vulnerability Scanning: Greenbone / OpenVAS
 - Firewalls: FortiGate
-- OS: Linux (Ubuntu), Windows
+- OS: Linux (Ubuntu & Debian), Windows
 - Scripting: Bash, Python (basic)
 
 👉 See **Projects** and **Writeups** for hands-on examples.
