@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /home/
 ---
 
 # Garrett Bull
@@ -16,4 +17,4 @@ I build and maintain security monitoring environments and investigate suspicious
 - OS: Linux (Ubuntu & Debian), Windows
 - Scripting: Bash, Python (basic)
 
-👉 See **[Projects]({% link projects.md})** and **[Writeups]**({% link writeups.md}) for hands-on examples.
+👉 See **[Projects](/projects/)** and **[Writeups](/writeups/)** for hands-on examples.
