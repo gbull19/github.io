@@ -8,6 +8,8 @@ title: Home
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
 
+[About](/about/) | [Resume](/resume/)
+
 ## Skills
 - SIEM: Wazuh, Splunk, Elastic
 - Monitoring: Nagios, NRPE
