@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-**Cybersecurity Specialist | SOC | SIEM | Vulnerability Management**
+<strong>Cybersecurity Specialist | SOC | SIEM | GRC</strong>
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
 
