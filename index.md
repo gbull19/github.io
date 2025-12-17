@@ -7,8 +7,6 @@ title: Home
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
 
-[LinkedIn](https://www.linkedin.com/in/garrettbull/) | [Credily](https://www.credly.com/users/garrettbull) | [About](/about/) | [Resume](/resume/)
-
 ## Skills
 - SIEM: Wazuh, Splunk, Elastic
 - Monitoring: Nagios, NRPE
@@ -18,3 +16,9 @@ I build and maintain security monitoring environments and investigate suspicious
 - Scripting: Bash, Python (basic)
 
 👉 See **[Projects](/projects/)** and **[Writeups](/writeups/)** for hands-on examples.
+
+## Follow me
+- [LinkedIn](https://www.linkedin.com/in/garrettbull/)
+- [Credily](https://www.credly.com/users/garrettbull)
+
+Also check out **[About Me](/about/)** and **[Resume](/resume/)** for more information.
