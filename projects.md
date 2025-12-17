@@ -13,7 +13,7 @@ permalink: /projects/
 - Firewall log ingestion
 - Alert validation with simulated attacks
 
-[GitHub Repo](https://github.com/yourusername/home-soc-lab) | [Home](/home/)
+[GitHub Repo](https://github.com/yourusername/home-soc-lab) | [Home](/)
 
 ---
 
