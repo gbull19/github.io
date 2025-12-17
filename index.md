@@ -4,7 +4,6 @@ title: Home
 ---
 
 # Garrett Bull
-
 **Cybersecurity Specialist | SOC | SIEM | Vulnerability Management**
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
