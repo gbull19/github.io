@@ -6,7 +6,7 @@ permalink: /writeups/
 
 # Technical Writeups
 
-[Home](/home/)
+[Home](/)
 
 ## Troubleshooting NRPE SSL Errors
 - Root cause analysis
