@@ -5,6 +5,7 @@ title: Home
 
 # Garrett Bull
 **Cybersecurity Specialist | SOC | SIEM | Vulnerability Management**
+
 [LinkedIn](https://www.linkedin.com/in/garrettbull/) | [Credily](https://www.credly.com/users/garrettbull)
 
 I build and maintain security monitoring environments and investigate suspicious activity using real tools and real logs.
