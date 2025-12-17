@@ -6,6 +6,8 @@ permalink: /about/
 
 # About Me
 
+[Home](/)
+
 I’m focused on blue-team security: monitoring, detection, and response.
 
 I learn by building:
